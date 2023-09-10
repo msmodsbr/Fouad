@@ -1,21 +1,25 @@
 {
- "version":"9.81",
+ "version":"9.82",
  "title":"🚨 Atualização disponível 🚨",
- "description":"✔ FOUAD EXTREME V9.80
+ "description":"✔ FOUAD EXTREME V9.81
 
- 📆 30-08-2023
+ 📆 10-09-2023
 
  🕐 Atualização básica:  2.23.13.76
 
  〰〰〰〰〰〰〰〰〰〰〰〰〰
 
- ➖ O que há de novo em 9.80
+ ➖ O que há de novo em 9.81
 
-🔵[Novo] Adicionado 7 Estilos de cards animandos 
+🔵 [Novo] Adicionado Opções de cores em Status STOCK RC NOTIFY E RC CONCEPT.
 
-🔵[Novo] Adicionado Novo estilo de configurações
+🔵 [Novo] Adicionado Opções de raio , cor de borda e de selecionar cor gradiente para status.
 
-✅ Todas as funções fouad base atual
+🔵 [Novo] Adicionado Opções de cores para o card colorido.
+
+🔵 [Novo] Adicionado Opções de raio , cor de borda e de selecionar cor gradiente para card colorido.
+
+✔ [Corrigido] Espaço nas placas dos status traseiro entre os cards
 
 ❤ E muito mais recursos e melhorias!.",
 "download":"https://youtu.be/EqFxa-8Wl4w?si=9vZhfAtTlgEcO506"
